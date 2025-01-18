@@ -17,4 +17,4 @@
     + yellow
 * _Flavors_
     + savory
-    + umame
+    + umami
