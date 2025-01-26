@@ -33,7 +33,12 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 2
 	+ Attended class Thursday
 	+ Met Zhi Tao on Thursday
+	+ Tried the assessment in class 
+	+ Went to office hours on Sunday
+	+ Total 4 points
 - Week 3
+	+ Attended class Thursday
+	+ Total 1 point
 - Week 4
 - Week 5
 - Week 6
