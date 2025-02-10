@@ -135,7 +135,7 @@ def f1(tn, fp, tp, fn):
 f1(1, 2, 3, 4) """
 
 # shannon entropy
-def shannonentropycalc(a, c, g, t):
+""" def shannonentropycalc(a, c, g, t):
     total = a + c + g + t
     a = a / total
     c = c / total
@@ -153,7 +153,7 @@ def shannon_entropy(a, c, g, t):
     if abs(entropy - 0) < 1e-9: print(0) 
     else: print(entropy)
 
-shannon_entropy(1, 1, 0, 1)
+shannon_entropy(1, 1, 0, 1) """
 
 # phred quality with base 2
 
